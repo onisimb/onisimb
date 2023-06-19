@@ -30,7 +30,7 @@ Here are a few noteworthy projects I have worked on:
    - Repository: [[portofolio](#https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python)](https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python)
    
 2. **Java** 
-   - Repository: [[Project 3](link-to-repo)](https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Java)
+   - Repository: https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Java
 
 Feel free to explore these projects and delve into the code.
 
