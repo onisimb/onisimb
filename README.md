@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Welcome to My GitHub Profile!
 
-Welcome to my GitHub profile. Here you'll find an assortment of projects, contributions, and code samples that showcase my skills and experience in the world of software development. Feel free to explore and discover the various repositories I have worked on.
+Here you'll find an assortment of projects, contributions, and code samples that showcase my skills and experience in the world of software development. Feel free to explore and discover the various repositories I have worked on.
 
 ## About Me
 
