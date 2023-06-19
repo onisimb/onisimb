@@ -27,7 +27,7 @@ I am a passionate software developer interested in building innovative and impac
 Here are a few noteworthy projects I have worked on:
 
 1. **Python** 
-   - Repository: [Python](#https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python)
+   - Repository: [Python](https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python)
    
 2. **Java** 
    - Repository: [Java](https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Java)
