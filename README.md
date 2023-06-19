@@ -27,14 +27,10 @@ I am a passionate software developer interested in building innovative and impac
 Here are a few noteworthy projects I have worked on:
 
 1. **HyperionDev** - Bootcamp.
-   - Repository: [Project 1](link-to-repo)
+   - Repository: [portofolio](#Python)
    - Technologies used: List of technologies
 
 2. **Project 2** - Description of project 2.
-   - Repository: [Python](#Python)
-   - Technologies used: List of technologies
-
-3. **Project 3** - Description of project 3.
    - Repository: [Project 3](link-to-repo)
    - Technologies used: List of technologies
 
