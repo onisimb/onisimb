@@ -42,7 +42,7 @@ I believe in the power of collaboration and open-source development. I actively 
 
 ## Contact Me
 
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to contact me. You can contact me via email at [onisimbalc@yahoo.co.uk] (mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+If you have any questions, suggestions, or would like to collaborate on a project, feel free to contact me. You can contact me via email at onisimbalc@yahoo.co.uk or connect with me on [LinkedIn](https://www.linkedin.com/in/onisim-balc-a8513382/).
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
