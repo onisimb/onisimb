@@ -38,13 +38,11 @@ Feel free to explore these projects and delve into the code.
 
 I believe in the power of collaboration and open-source development. I actively contribute to various open-source projects, helping to improve their functionality and add new features. You can find my contributions in the following repositories:
 
-- Repository 1: [Link to Repository 1](link-to-repo)
-- Repository 2: [Link to Repository 2](link-to-repo)
-- Repository 3: [Link to Repository 3](link-to-repo)
+- No contribution yet to open source
 
 ## Contact Me
 
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me. You can contact me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+If you have any questions, suggestions, or would like to collaborate on a project, feel free to contact me. You can contact me via email at onisimbalc@yahoo.co.uk (mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
