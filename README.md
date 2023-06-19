@@ -20,7 +20,7 @@ Welcome to my GitHub profile. Here you'll find an assortment of projects, contri
 
 ## About Me
 
-I am a passionate software developer interested in building innovative and impactful solutions. With a foundation in programming languages such as Python and Java, I enjoy tackling complex problems and finding elegant solutions. I constantly learn and adapt to new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
+I am a passionate software developer and data analyst interested in building innovative and impactful solutions. With a foundation in programming languages such as Python and Java, I enjoy tackling complex problems and finding elegant solutions. I constantly learn and adapt to new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
 
 ## Projects
 
@@ -47,4 +47,3 @@ If you have any questions, suggestions, or would like to collaborate on a projec
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
 Best regards,
-Your Name
