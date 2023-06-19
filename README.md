@@ -27,7 +27,7 @@ I am a passionate software developer interested in building innovative and impac
 Here are a few noteworthy projects I have worked on:
 
 1. **HyperionDev** - Bootcamp.
-   - Repository: [portofolio](#(https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python))
+   - Repository: [portofolio](#https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Python)
    - Technologies used: List of technologies
 
 2. **Project 2** - Description of project 2.
