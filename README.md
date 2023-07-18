@@ -33,7 +33,7 @@ Here are a few noteworthy projects I have worked on:
    - Repository: [Java](https://github.com/onisimb/portofolio/tree/20cc1b5c852ec5841438cbd46e3ca61c2b51095a/Java)
 
 3. **HTML & CSS**
-   - Repository: [HTML & CSS & JS](https://github.com/onisimb/portofolio/tree/main/HTML%20%26%20CSS)
+   - Repository: [HTML & CSS & JS](https://github.com/onisimb/portofolio/tree/main/HTML%26CSS%26JS)
      
 Feel free to explore these projects and delve into the code.
 
