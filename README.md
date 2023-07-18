@@ -34,7 +34,7 @@ Here are a few noteworthy projects I have worked on:
 
 3. **HTML & CSS**
    - Repository: [HTML & CSS](https://github.com/onisimb/portofolio/tree/main/HTML%20%26%20CSS)
-   - 
+     
 Feel free to explore these projects and delve into the code.
 
 ## Contributions
