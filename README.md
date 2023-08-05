@@ -20,7 +20,7 @@ Here you'll find an assortment of projects, contributions, and code samples that
 
 ## About Me
 
-I am a passionate software developer and data analyst interested in building innovative and impactful solutions. With a foundation in programming languages such as Python and Java, I enjoy tackling complex problems and finding elegant solutions. I constantly learn and adapt to new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
+I am a passionate software developer and data analyst interested in building innovative and impactful solutions. With a foundation in a few programming languages, I enjoy tackling complex problems and finding elegant solutions. I constantly learn and adapt to new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
 
 ## Projects
 
